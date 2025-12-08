@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.odd{
+    background-color: rgb(240, 168, 180);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#evenone{
+    color: rgb(6, 6, 238);
+    font-size: 36px;
+   
+}
+.adjust-font-size{
+    font-size: 24px;
+}
+#eventwo{
+    background-color: rgb(79, 235, 79);
+    font-weight: bold;
+}
